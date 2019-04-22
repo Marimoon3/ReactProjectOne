@@ -1,2 +1,0 @@
-# ReactProjectOne
-Created with CodeSandbox
